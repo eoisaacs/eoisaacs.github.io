@@ -1,0 +1,4 @@
+name: Wander the Woods
+markdown: redcarpet
+pygments: true
+permalink: pretty
