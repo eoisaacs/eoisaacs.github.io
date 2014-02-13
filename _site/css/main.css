@@ -104,6 +104,10 @@ body, html {
   padding-left:10px;
 }
 
+#sidebar li {
+  margin:5px 0;
+}
+
 #footer {
   clear:both;
   margin:5px 0;
@@ -125,8 +129,12 @@ body, html {
   margin:5px 0;
 }
 
+.meta a {
+  color:#000;
+}
+
 .post li {
-  padding-bottom: 20px;
+  padding-bottom: 15px;
   margin-bottom:30px;
   border-bottom:2px solid #eee;
 }
