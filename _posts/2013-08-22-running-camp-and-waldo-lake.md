@@ -10,12 +10,12 @@ As always, it was a great experience with a beautiful setting, good friends, gam
 
 The day after running camp ended, I left for Waldo Lake with my family for a short vacation. We carried all of our gear in canoes and camped around the shoreline at undeveloped sites.
 
-![Canoe beached on volcanic gravel at Waldo Lake](eoisaacs.github.io/images/2013-08-22-img1.jpg)
+![Canoe beached on volcanic gravel at Waldo Lake](http://eoisaacs.github.io/images/2013-08-22-img1.jpg)
 
 It was incredibly relaxing to be away from civilization for a while. The only disruptions were the occasional distant train and jet contrails. Sometimes being out in the woods makes me wish we lived in simpler times.
 
-![Glassy water looking out accross the lake](eoisaacs.github.io/images/2013-08-22-img2.jpg)
+![Glassy water looking out accross the lake](http://eoisaacs.github.io/images/2013-08-22-img2.jpg)
 
 The weather was spectacular and the mosquitoes fewer than feared. In addition to canoeing, we ran/hiked short section of the Shoreline Trail and crossed the headwaters of the North Fork of the Willamette River. Someday I will have to come back and run or mountain bike all 22 miles of beautiful singletrack encircling the lake.
 
-![Canoeing by moonlight](eoisaacs.github.io/images/2013-08-22-img3.jpg)
+![Canoeing by moonlight](http://eoisaacs.github.io/images/2013-08-22-img3.jpg)
