@@ -5,9 +5,7 @@ title: Oregon to Upper Michigan&#58;  An &#40;Expected&#41;  Journey
 
 In a few short weeks I will be traveling to Michigan Technological University for college. It's hard to think about moving 2000 miles away from home. I've lived and gone to school near the same small town for close to 13 years with many of the same friends. As sad as it is to be leaving this, I'm very excited for the opportunity to meet lots of different people and branch out my interests. There is a bit of a cultural difference between Oregon and the Upper Peninsula (U.P.) of Michigan, but I like what I've experienced on family vacations and my visit over spring break.
 
-![Houghton in the Winter](https://dl.dropboxusercontent.com/u/2227216/IMG_1400.jpg)
-
-*Houghton gets a little more snow than I'm used to...*
+![Houghton lift bridge in the Winter](../../images/2013-08-03-img1.jpg)
 
 At Michigan Tech, I'll be starting out in General Engineering (basically undecided.) I don't have a clear idea of which branch I want to move into. Hopefully that will come with time. Academics will certainly be my focus and take up most of my time while I'm there. 8am Calc 2 class here I come...
 

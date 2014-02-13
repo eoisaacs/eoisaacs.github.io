@@ -10,18 +10,12 @@ As always, it was a great experience with a beautiful setting, good friends, gam
 
 The day after running camp ended, I left for Waldo Lake with my family for a short vacation. We carried all of our gear in canoes and camped around the shoreline at undeveloped sites.
 
-![Canoeing Waldo Lake](https://dl.dropboxusercontent.com/u/2227216/DSC_0618.jpg)
-
-*Canoeing Waldo Lake*
+![Canoe beached on volcanic gravel at Waldo Lake](../../images/2013-08-22-img1.jpg)
 
 It was incredibly relaxing to be away from civilization for a while. The only disruptions were the occasional distant train and jet contrails. Sometimes being out in the woods makes me wish we lived in simpler times.
 
-![Glassy water and a spectacular view](https://dl.dropboxusercontent.com/u/2227216/DSC_0657.jpg)
-
-*Glassy water and a spectacular view*
+![Glassy water looking out accross the lake](../../images/2013-08-22-img2.jpg)
 
 The weather was spectacular and the mosquitoes fewer than feared. In addition to canoeing, we ran/hiked short section of the Shoreline Trail and crossed the headwaters of the North Fork of the Willamette River. Someday I will have to come back and run or mountain bike all 22 miles of beautiful singletrack encircling the lake.
 
-![Moonlight canoeing](https://dl.dropboxusercontent.com/u/2227216/DSC_0542.jpg)
-
-*The bright moon made for excellent nighttime canoeing*
+![Canoeing by moonlight](../../images/2013-08-22-img3.jpg)

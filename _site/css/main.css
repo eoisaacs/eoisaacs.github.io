@@ -1,168 +1,133 @@
-/*****************************************************************************/
-/*
-/* Common
-/*
-/*****************************************************************************/
-
 /* Global Reset */
+
 * {
   margin: 0;
   padding: 0;
+  list-style:none;
 }
 
-html, body { height: 100%; }
-
-body {
-  background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
-  text-align: center;
+a {
+  text-decoration:none;
+  color:red;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
-
-h1 { margin-bottom: 1em; }
-p { margin: 1em 0; }
-
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
-
-/*****************************************************************************/
-/*
-/* Home
-/*
-/*****************************************************************************/
-ul.posts {
-  list-style-type: none;
-  margin-bottom: 2em;
+a:hover {
+  text-decoration:underline;
 }
 
-ul.posts li {
-  line-height: 1.75em;
+a:visited {
+  color:red;
 }
 
-ul.posts span {
-  color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
+/* General */
+
+h1 {
+  padding:20px 0;
 }
 
-.posts img {
-  width:42em;
+h2 {
+  padding-top:10px;
 }
 
-/*****************************************************************************/
-/*
-/* Site
-/*
-/*****************************************************************************/
-
-.site {
-  font-size: 115%;
-  text-align: justify;
-  width: 42em;
-  margin: 3em auto 2em;
-  line-height: 1.5em;
+img {
+  width:100%;
+  margin:25px 0;
 }
 
-.site .header a {
-  font-weight: bold;
-  text-decoration: none;
+body, html {
+  color:#000;
+  background:#eee;
 }
 
-.site .header h1.title {
-  display: inline-block;
-  margin-bottom: 2em;
+#main {
+  width:850px;
+  margin:50px auto;
+  padding:50px 100px;
+  background:#fff;
+  font-family:Helvetica,​Arial,​sans-serif;
+  line-height:1.5em
 }
 
-.site .header h1.title a {
-  color: #a00;
+#menu {
+  padding:7px 10px;
+  text-align:center;
 }
 
-.site .header h1.title a:hover {
-  color: #000;
+#menu li {
+  display:inline;
 }
 
-.site .header a.extra {
-  color: #aaa;
-  margin-left: 1em;
+#menu a {
+  color:#fff;
+  background-color:#ccc;
+  padding:3px 5px 2px 5px;
 }
 
-.site .header a.extra:hover {
-  color: #000;
+#menu a:hover {
+  background-color:#bbb;
+  text-decoration:none;
 }
 
-.site .meta {
-  color: #aaa;
+#header {
+  background-image:url(../../images/header850.jpg);
+  height:296px;
 }
 
-.site .footer {
-  font-size: 80%;
-  color: #666;
-  border-top: 4px solid #eee;
-  margin-top: 2em;
-  overflow: hidden;
+#header h1 {
+  padding-top:140px;
+  text-align:center;
+  color:white;
 }
 
-.site .footer .contact {
-  float: left;
-  margin-right: 3em;
+#content, #sidebar {
+  margin:20px 0;
 }
 
-.site .footer .contact a {
-  color: #8085C1;
+#content {
+  float:left;
+  width:600px;
+  padding:10px 50px 10px 0;
+  border-right:3px dotted #666;
 }
 
-.site .footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
-  float: right;
+#sidebar {
+  float:right;
+  width:162px;
+  padding:10px 10px 15px 10px;
 }
 
-.site .footer .rss img {
-  border: 0;
+#sidebar ul {
+  padding-left:20px;
 }
 
-/*****************************************************************************/
-/*
-/* Posts
-/*
-/*****************************************************************************/
-
-/* standard */
-.post pre {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .4em;
+#footer {
+  clear:both;
+  margin:5px 0;
+  padding:10px 10px;
+  font-size:80%;
+  color:#666;
+  border-top:5px solid #eee;
 }
 
-.post ul, .post ol {
-  margin-left: 1.35em;
+/* Posts */
+
+.post h2 a {
+  color:#000;
 }
 
-.post img {
-  width:42em;
+.meta {
+  text-transform:uppercase;
+  font-size:80%;
+  padding-bottom:15px;
 }
 
-.post code {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .2em;
+.post li {
+  padding-bottom: 20px;
+  margin-bottom:30px;
+  border-bottom:2px solid #eee;
 }
 
-.post pre code {
-  border: none;
-}
-
-/* terminal */
-.post pre.terminal {
-  border: 1px solid #000;
-  background-color: #333;
-  color: #FFF;
-}
-
-.post pre.terminal code {
-  background-color: #333;
+.end-post {
+  text-align:center;
+  color:#666;
 }
