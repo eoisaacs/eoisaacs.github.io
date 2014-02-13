@@ -4,9 +4,9 @@ title: Running Camp and Waldo Lake
 ---
 
 
-Last week I helped out with the 27th (mostly) annual Timberhill Harriers running camp. I loved my two years as a camper and was more than happy to come back and join in on the fun. The camp started with an interesting new twist—most of the runners dropped off their bags and ran to camp via a 9 mile route through McDonald Forest. On a later long run we encountered an uncooperative skunk and a couple of elk. Unfortunately I did not bring my camera for the week.
+Last week I helped out with the 27th (mostly) annual Timberhill Harriers running camp. I loved my two years as a camper and was more than happy to come back and join in on the fun. The camp started with an interesting new twist—most of the runners dropped off their bags and ran to camp via a 9 mile route through McDonald Forest. On a later long run we encountered an uncooperative skunk and a couple of elk. Unfortunately I did not bring my camera for the week.  
 
-As always, it was a great experience with a beautiful setting, good friends, games, excellent food, and—of course—lots of running. I managed to put in 60 miles in five days after a pretty lazy summer. It made me wish I was doing Cross Country this year at Michigan Tech. I tend to forget how much I love running.
+As always, it was a great experience with a beautiful setting, good friends, games, excellent food, and—of course—lots of running. I managed to put in 60 miles in five days after a pretty lazy summer. It made me wish I was doing Cross Country this year at Michigan Tech. I tend to forget how much I love running.  
 
 The day after running camp ended, I left for Waldo Lake with my family for a short vacation. We carried all of our gear in canoes and camped around the shoreline at undeveloped sites.
 

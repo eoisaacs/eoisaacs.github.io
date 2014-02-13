@@ -27,13 +27,25 @@
        {{ content }}
       </div>
       <div id="sidebar">
-        <h2>Categories</h2>
+        <h2>Archive</h2>
+        <br />
         <ul>
-          </br>
-          <li><a href="#">Link 1</a></li>
-          <li><a href="#">Link 2</a></li>
+          {% for post in site.posts %}
+
+            {% unless post.next %}
+            <h3>{{ post.date | date: '%Y' }}</h3>
+          {% else %}
+            {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+            {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+            {% if year != nyear %}
+            <h3>{{ post.date | date: '%Y' }}</h3>
+          {% endif %}
+          {% endunless %}
+
+          <li>{{ post.date | date:"%b" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+          {% endfor %}
         </ul>
-      </div>
+      </div> <!-- /sidebar -->
       <div id="footer">
         <ul>
           <li>Eric Isaacs</li>

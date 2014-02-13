@@ -7,10 +7,10 @@ In a few short weeks I will be traveling to Michigan Technological University fo
 
 ![Houghton lift bridge in the Winter](http://eoisaacs.github.io/images/2013-08-03-img1.jpg)
 
-At Michigan Tech, I'll be starting out in General Engineering (basically undecided.) I don't have a clear idea of which branch I want to move into. Hopefully that will come with time. Academics will certainly be my focus and take up most of my time while I'm there. 8am Calc 2 class here I come...
+At Michigan Tech, I'll be starting out in General Engineering (basically undecided.) I don't have a clear idea of which branch I want to move into. Hopefully that will come with time. Academics will certainly be my focus and take up most of my time while I'm there. 8am Calc 2 class here I come...  
 
-If I have time, there will be plenty of other activities to keep me busy. This may be a little bit ambitious, but I plan to participate in intramural sports, competitive mountain biking, running, potentially the student radio station, and have a social life. Something will probably have to go. I hope it isn't this blog.
+If I have time, there will be plenty of other activities to keep me busy. This may be a little bit ambitious, but I plan to participate in intramural sports, competitive mountain biking, running, potentially the student radio station, and have a social life. Something will probably have to go. I hope it isn't this blog.  
 
-I will be very busy before I leave, so this may very well be the only post for a while. I will be helping out at my high school XC coach's running camp and then going on a family camping trip. This means I have to start packing...
+I will be very busy before I leave, so this may very well be the only post for a while. I will be helping out at my high school XC coach's running camp and then going on a family camping trip. This means I have to start packing...  
 
-I have every intention of keeping this updated approximately weekly. How that will work out, I have no idea. I want to start recording my experiences regularly as well as working on my writing, and this seemed like a  good way to do it. We'll hope for the best.
+I have every intention of keeping this updated approximately weekly. How that will work out, I have no idea. I want to start recording my experiences regularly as well as working on my writing, and this seemed like a  good way to do it. We'll hope for the best.  

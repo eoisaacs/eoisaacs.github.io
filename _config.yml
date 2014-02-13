@@ -1,4 +1,6 @@
 name: Wander the Woods
+description: The blog of Eric Isaacs
+url: http://wanderthewoods.com
 markdown: redcarpet
 pygments: true
 permalink: pretty
