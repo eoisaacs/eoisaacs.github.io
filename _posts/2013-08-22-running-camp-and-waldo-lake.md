@@ -17,4 +17,4 @@ It was incredibly relaxing to be away from civilization for a while. The only di
 
 ![Canoeing by moonlight](http://eoisaacs.github.io/images/2013-08-22-img3.jpg)
 
-The weather was spectacular and the mosquitoes fewer than feared. In addition to canoeing, we ran/hiked short section of the Shoreline Trail and crossed the headwaters of the North Fork of the Willamette River. Someday I will have to come back and run or mountain bike all 22 miles of beautiful singletrack encircling the lake.
+The weather was spectacular and the mosquitoes fewer than feared. In addition to canoeing, we ran/hiked short section of the Shoreline Trail and crossed the headwaters of the North Fork of the Willamette River. Someday I will have to come back and run or mountain bike the spectacular 22-mile trail encircling the lake.
