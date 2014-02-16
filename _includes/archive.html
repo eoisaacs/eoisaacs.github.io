@@ -1,38 +1,23 @@
 <h2>Archive</h2>
-        <br />
-        <ul> <!-- Year list -->
-          {% for post in site.posts %}
+  <br />
+  <ul>
+    {% for post in site.posts %}
 
-            {% unless post.next %}
-            <li>{{ post.date | date: '%Y' }}</li>
-          {% else %}
-            {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-            {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-            {% if year != nyear %}
-            <li>{{ post.date | date: '%Y' }}</li>
-          {% endif %}
-          {% endunless %}
-          {% endfor %}
-          <li> <!-- Month sublist -->
-            <ul>
-              {% for post in site.posts %}
+      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
 
-                {% unless post.next %}
-                <li>{{ post.date | date: '%B' }}</li>
-              {% else %}
-                {% capture month %}{{ post.date | date: '%B' }}{% endcapture %}
-                {% capture nmonth %}{{ post.next.date | date: '%B' }}{% endcapture %}
-                {% if month != nmonth %}
-                <li>{{ post.date | date: '%B' }}</li>
-              {% endif %}
-              {% endunless %}
+      {% if year != nyear %}
+        <li><h3>{{ post.date | date: '%Y' }}</h3></li>
+      {% endif %}
 
-                <li>
-                  <ul>
-                    <li>{{ post.date | date:"%-d" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
-                  </ul>
-                </li>
-              {% endfor %}
-            </ul>
-          </li> <!-- Month sublist -->
-        </ul> <!-- /Year list -->
+      {% capture month %}{{ post.date | date: '%B' }}{% endcapture %}
+      {% capture nmonth %}{{ post.next.date | date: '%B' }}{% endcapture %}
+
+      {% if month != nmonth %}
+        <li><h4>{{ post.date | date: '%B' }}</h4></li>
+      {% endif %}
+
+        <li>{{ post.date | date:"%-d" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+        
+    {% endfor %}
+  </ul>
