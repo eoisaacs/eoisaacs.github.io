@@ -1,3 +1,14 @@
+@media only screen and (max-width: 1024px) {
+	#main {
+		width:80%;
+	}
+}
+@media screen and (max-width: 480px) {
+	#content {
+		border: none;
+	}
+}
+
 @media screen and (max-width: 350px) {
 
 }
