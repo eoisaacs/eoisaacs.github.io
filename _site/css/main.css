@@ -22,20 +22,16 @@ a:visited {
 /* General */
 
 h1 {
-  padding:20px 0;
-}
-
-h2 {
-  padding-top:10px;
+  padding:4% 0;
 }
 
 p {
-  margin:20px 0;
+  margin:4% 0;
 }
 
 img {
   width:100%;
-  margin:15px 0;
+  margin:2% 0;
 }
 
 body, html {
@@ -44,17 +40,17 @@ body, html {
 }
 
 #main {
-  width:850px;
-  margin:50px auto;
-  padding:50px 100px;
+  width:68%;
+  margin:4% auto;
+  padding:4% 7.5%;
   background:#fff;
   font-family:Helvetica,​Arial,​sans-serif;
   line-height:1.5em
 }
 
 #menu {
-  padding:7px 10px;
   text-align:center;
+  margin-bottom: 0 !important;
 }
 
 #menu li {
@@ -73,8 +69,10 @@ body, html {
 }
 
 #header {
-  background-image:url(../../images/header850.jpg);
   height:296px;
+  background-image:url(../../images/header.jpg);
+  background-position: center;
+  background-repeat: none;
 }
 
 #header h1 {
@@ -83,39 +81,26 @@ body, html {
   color:white;
 }
 
-#content, #sidebar {
-  margin:20px 0;
-}
-
 #content {
-  float:left;
-  width:600px;
-  padding:10px 50px 10px 0;
+  margin-top: 3%;
+  padding: 0 4% 3% 0;
   border-right:3px dotted #666;
 }
 
 #sidebar {
-  float:right;
-  width:162px;
-  padding:10px 10px 15px 10px;
+  padding-left: 2%;
+  margin-top:3%;
+}
+
+#sidebar ul, #sidebar li {
+  padding-left: 3%;
 }
 
 #sidebar ul {
-  padding-left:10px;
-}
-
-#sidebar li {
-  margin:10px 0;
-}
-
-#blogroll {
-  padding-top:50px;
+  padding-bottom: 5%;
 }
 
 #footer {
-  clear:both;
-  margin:5px 0;
-  padding:10px 10px;
   font-size:80%;
   color:#666;
   border-top:5px solid #eee;
@@ -130,7 +115,7 @@ body, html {
 .meta {
   text-transform:uppercase;
   font-size:80%;
-  margin:5px 0;
+  margin:1% 0;
 }
 
 .meta a {
@@ -138,9 +123,9 @@ body, html {
 }
 
 .post li {
-  padding-bottom: 15px;
-  margin-bottom:30px;
-  border-bottom:2px solid #eee;
+  padding-bottom: 3%;
+  margin-bottom: 6%;
+  border-bottom: 2px solid #eee;
 }
 
 .end-post {
