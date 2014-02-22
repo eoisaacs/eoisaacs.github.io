@@ -16,6 +16,9 @@
 	#content {
 		border: none;
 	}
+	#menu {
+		margin-bottom:1%;
+	}
 }
 
 @media screen and (max-width: 350px) {
