@@ -15,7 +15,7 @@ The snow was practically untouched. We managed to stay on top most of the time, 
 
 ![Climbing trees and then jumping out of them](http://eoisaacs.github.io/images/2014-02-22-img3.jpg)
 
-Like with every good adventure, tree climbing was in order. Snowshoing can be surprisingly exciting if you do it right. Snowshoe freeride is going to be the next big thing.
+Like with any good adventure, tree climbing was in order. Snowshoing can be as exciting as you make it. I think extreme snowshoing could definitely take off.
 
 ![Beautiful winter forest](http://eoisaacs.github.io/images/2014-02-22-img4.jpg)
 
