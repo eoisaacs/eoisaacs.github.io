@@ -9,7 +9,9 @@ After a late-night video planning session, some guys from the cycling club invit
 
 ![Snowshoeing through deep powder](http://eoisaacs.github.io/images/2014-02-22-img2.jpg)
 
-The snow was practically untouched. We managed to stay on top most of the time, but there were spots where it was easy to sink in to the waist. We saw some faint downhill ski tracks, but no other signs of people. It was pretty different seeing the trail in the winter compared to biking it in the summer.
+After the drive to Copper Harbor, we climbed up Brockway Mountain and followed the Overflow downhill mountain bike trail back down. It was pretty different seeing the trail on foot in the winter compared to riding it in the summer.
+
+The snow was practically untouched. We managed to stay on top most of the time, but there were spots where it was easy to sink in to the waist. We saw some faint downhill ski tracks, but no other signs of people.
 
 ![Climbing trees and then jumping out of them](http://eoisaacs.github.io/images/2014-02-22-img3.jpg)
 
