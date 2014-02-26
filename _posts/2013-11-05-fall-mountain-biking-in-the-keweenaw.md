@@ -9,7 +9,7 @@ One of the biggest reasons I was intitially drawn to Michigan Tech was the good 
 
 Michigan Tech has done a lot to improve the trails as well, including the addition of a new flow trail this summer. It's the first flow trail I've experienced, and it's a huge amount of fun. It's built so that beginning riders can ride the trail with no mandatory jumps, but there are gaps as large as 20-25 feet for the brave and experienced.
 
-The Michigan Tech trails as a whole are a blast. I was able to improve my riding a lot with the huge variety of trails and features. Considering the relatively small amount of land that it takes up, it is an amazing place to have a few minutes from the dorms by bike, with many levels of trails, dirt jumps, and a dual slalom course.
+The Michigan Tech Trails as a whole are a blast. I was able to improve my riding a lot with the huge variety of trails and features. Considering the relatively small amount of land that it takes up, it is an amazing place to have a few minutes from the dorms by bike, with many levels of trails, dirt jumps, and a dual slalom course.
 
 ![Dual slalom MTB racers head-to-head at the Michigan Tech Trails](http://eoisaacs.github.io/images/2013-11-05-img2.jpg)
 
