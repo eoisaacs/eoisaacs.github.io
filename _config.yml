@@ -5,4 +5,4 @@ markdown: redcarpet
 pygments: true
 permalink: pretty
 paginate_path: "page:num"
-paginate: 5
+paginate: 3
