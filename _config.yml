@@ -4,3 +4,5 @@ url: http://wanderthewoods.com
 markdown: redcarpet
 pygments: true
 permalink: pretty
+paginate_path: "page:num"
+paginate: 5
