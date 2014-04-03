@@ -15,7 +15,7 @@ Here's what I've been digging recently:
 
 I don't know if this is good news for freedom of expression, or basically the legalization of unlimited bribes. Campaign funding is a really grey area for me. I think political freedom is extremely important, but elections should be won through merit rather than based on who can be bought most easily.
 
-<h4><a href="http://www.bbc.com/news/magazine-26254706" target="_blank>Viewpoint: Escape from the 'sink' estate"</a></h4>
+<h4><a href="http://www.bbc.com/news/magazine-26254706" target="_blank">Viewpoint: Escape from the 'sink' estate"</a></h4>
 
 An interesting counterpoint to the idea that people are poor because they're lazy and irresponsible.
 
