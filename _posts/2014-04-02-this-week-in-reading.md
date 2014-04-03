@@ -5,7 +5,7 @@ title: This Week in Reading
 
 ![](http://eoisaacs.github.io/images/2014-04-02-img1.jpg)
 
-As spring continues to deny its presence in the UP, I've decided to look for more quality reading material on the internet. There is a lot out there, and it's a lot more satisfying and fullfilling than the "fast-foods" of online media—Reddit, Buzzfeed, Twitter, and Facebook. I've found enough good content that I'm going to start putting together collections so that other people can enjoy it as well.
+As spring continues to deny its presence in the UP, I've decided to look for more quality reading material on the internet. There is a lot out there, and it's much more satisfying than the "fast-foods" of online media—Reddit, Buzzfeed, Twitter, and Facebook. I've found enough good content that I'm going to start putting together collections so that other people can enjoy it as well.
 
 Here's what I've been digging recently:
 
