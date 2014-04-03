@@ -5,6 +5,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width">
+    {% if paginator.posts %}
+    {% for post in paginator.posts %}
+      <meta property="og:image" content="http://eoisaacs.github.io/images/{{ post.date | date: "%m-%d-%Y" }}-img1.jpg" />
+    {% endfor %}
+    {% else %}
+      <meta property="og:image" content="http://eoisaacs.github.io/images/{{ page.date | date: "%m-%d-%Y" }}-img1.jpg" />
+    {% endif %}
     <link rel="shortcut icon" href="http://eoisaacs.github.io/favicon.png" type="image/x-icon" />
     <link rel="apple-touch-icon-precomposed" href="http://eoisaacs.github.io/apple-touch-icon.png" />
 
