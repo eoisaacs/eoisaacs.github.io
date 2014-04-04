@@ -45,6 +45,7 @@ body, html {
 
 #main {
   width:68%;
+  max-width:1500px;
   margin:4% auto;
   padding:4% 7.5%;
   background:#fff;
