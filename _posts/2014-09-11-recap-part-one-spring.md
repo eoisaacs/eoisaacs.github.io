@@ -23,7 +23,7 @@ I finally managed to get out to the family cabin, despite the wet snow and my la
 
 ![](http://eoisaacs.github.io/images/2014-09-11/DSC_0048.jpg)
 
-My friend Helen convinced me to get involved in some <a href="http://www.facebook.com/mtuovc" target="_blank">OVC</a> outings. A combination of rad people, adventure, and the natural wonders of the <a href="http://www.urbandict.com/?=yoop" target="_blank">Yoop</a> coincided in the best way possible. No adventure is complete without the possibility of arrest by federal agents or death by icefall. As always, I wish I had gotten involved sooner.
+My friend Helen convinced me to get involved in some <a href="http://www.facebook.com/mtuovc" target="_blank">OVC</a> outings. A combination of rad people, adventure, and the natural wonders of the <a href="http://www.merriam-webster.com/dictionary/yooper" target="_blank">yoop</a> coincided in the best way possible. No adventure is complete without the possibility of arrest by federal agents or death by icefall. As always, I wish I had gotten involved sooner.
 
 *Stay tuned for part two.*
 
