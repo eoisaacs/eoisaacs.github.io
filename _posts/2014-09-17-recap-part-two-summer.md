@@ -17,7 +17,7 @@ My lovely sister had just hatched a batch of ducklings. We were having tons of f
 
 I also got the opportunity to spend some time in some very special places. Marys Peak, a 4000' mountain in the coast range, is home to my favorite trail and some of the most beautiful forest I have ever experienced. There is no way for pictures to do it justice. There's something very awe inspiring about being out in a relatively undisturbed old-growth forest. It feels like the trees have souls.
 
-![Boone sitting on the edge of a bridge accross the Yaquina River](http://eoisaacs.github.io/images/2014-09-16/img04.jpg)
+![Boone sitting on the edge of a bridge accross the Yaquina River](http://eoisaacs.github.io/images/2014-09-17/img04.jpg)
 
 ![Upper Yaquina Falls](http://eoisaacs.github.io/images/2014-09-17/img05.jpg)
 
