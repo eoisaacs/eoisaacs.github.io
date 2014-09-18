@@ -11,7 +11,7 @@ Coming from the harsh cold of the Midwest, Oregon spring is paradise. It was lov
 
 ![The cutest picture ever taken](http://eoisaacs.github.io/images/2014-09-17/img02.jpg)
 
-My lovely sister had just hatched a batch of ducklings. We were having tons of fun playing with them and Rocky, our border collie, in the lawn and I got a few nice picture of it. No ducklings were harmed in the process.
+My lovely sister had just hatched a batch of ducklings. We were having tons of fun playing with them and Rocky, our border collie, in the lawn and I got a few nice pictures of it. No ducklings were harmed in the process.
 
 ![Mountain bike leaning on old growth tree](http://eoisaacs.github.io/images/2014-09-17/img03.jpg)
 
