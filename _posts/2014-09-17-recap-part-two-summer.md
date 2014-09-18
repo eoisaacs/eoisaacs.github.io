@@ -19,9 +19,9 @@ I also got the opportunity to spend some time in some very special places. Marys
 
 ![Boone sitting on the edge of a bridge accross the Yaquina River](http://eoisaacs.github.io/images/2014-09-17/img04.jpg)
 
-![Upper Yaquina Falls](http://eoisaacs.github.io/images/2014-09-17/img05.jpg)
-
 Yaquina Falls is a remote, completely unmarked and mostly unkown spot that I had been trying to find for several years. The clues finally came together, and my friend Boone and I made the trek on a quiet Sunday in early June. It took some serious scrambling and bushwacking to make it to the falls. The scale of the falls surpassed any expectation I had. It is a truly magical spot.
+
+![Upper Yaquina Falls](http://eoisaacs.github.io/images/2014-09-17/img05.jpg)
 
 <div class="video-wrapper">
 	<iframe src="//player.vimeo.com/video/99205468" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
