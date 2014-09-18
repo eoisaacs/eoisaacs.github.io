@@ -23,7 +23,7 @@ Yaquina Falls is a remote, completely unmarked and mostly unkown spot that I had
 
 ![Upper Yaquina Falls](http://eoisaacs.github.io/images/2014-09-17/img05.jpg)
 
-<div class="video-wrapper">
+<div class="video-container">
 	<iframe src="//player.vimeo.com/video/99205468" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
