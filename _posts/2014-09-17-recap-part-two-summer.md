@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Recap Part Two:&nbsp;Summer
+description: Description here
 ---
 
 *I've neglected this blog for a few months now, and it seems a shame to ignore everything that's happened in the mean time. This is the second part in a two-part series playing catch-up.*
