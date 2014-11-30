@@ -9,7 +9,7 @@ title: Wander the Woods
     {% for post in paginator.posts %}
       <li>
       	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      	<p class="meta">{{ post.date | date: "%B %-d, %Y" }} | <a href="{{ post.url }}#disqus_thread"></a></p>
+      	<p class="metadata">{{ post.date | date: "%B %-d, %Y" }} | <a href="{{ post.url }}#disqus_thread"></a></p>
       	{{ post.content }}
       	<p class="end-post">&sect;</p>
       </li>
