@@ -11,7 +11,7 @@
         <meta property="og:image" content="http://eoisaacs.github.io/images/{{ post.date | date: "%Y-%m-%d" }}/img01.jpg" />
       {% endfor %}
     {% else %}
-      <meta name="description" content="{{ page.description }}">
+      <meta name="description" content="{{ page.excerpt | strip_html }}">
       <meta property="og:image" content="http://eoisaacs.github.io/images/{{ page.date | date: "%Y-%m-%d" }}/img01.jpg" />
     {% endif %}
     <link rel="shortcut icon" href="http://eoisaacs.github.io/favicon.png" type="image/x-icon" />
