@@ -6,7 +6,7 @@
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width">
     {% if paginator.posts %}
-      <meta name="description" content="Thoughts on life, environment and society by Eric Isaacs, environmental engineering student, bike lover, adventurer, and aspiring journalist">
+      <meta name="description" content="{{ site.description }}">
       {% for post in paginator.posts %}
         <meta property="og:image" content="http://eoisaacs.github.io/images/{{ post.date | date: "%Y-%m-%d" }}/img01.jpg" />
       {% endfor %}
