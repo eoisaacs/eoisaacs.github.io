@@ -3,9 +3,9 @@ layout: post
 title: Fall Mountain Biking in the Keweenaw
 ---
 
-![Rollers in the new MTB flow trail at the Michigan Tech Trails](http://eoisaacs.github.io/images/2013-11-05/img01.jpg)
-
 One of the biggest reasons I was intitially drawn to Michigan Tech was the good reputation of the trail system on campus and others in the surrounding area. They absolutely did not disappoint. I spent as much time as I could out riding, mostly after class and on the weekends. The strong local support for trails and maintenance really shows in the quality of the riding and number of users on the trails.
+
+![Rollers in the new MTB flow trail at the Michigan Tech Trails](http://eoisaacs.github.io/images/2013-11-05/img01.jpg)
 
 Michigan Tech has done a lot to improve the trails as well, including the addition of a new flow trail this summer. It's the first flow trail I've experienced, and it's a huge amount of fun. It's built so that beginning riders can ride the trail with no mandatory jumps, but there are gaps as large as 20-25 feet for the brave and experienced.
 

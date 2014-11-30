@@ -3,9 +3,9 @@ layout: post
 title: Spring Break, Sheboygan Style
 ---
 
-![Frozen edge of Lake Michigan from Sheboygan, WI](http://eoisaacs.github.io/images/2014-03-18/img01.jpg)
-
 My friend Anthony was nice enough to invite me to stay at his place in Sheboygan, Wisconsin over spring break. It was a much-needed change of pace after a couple of months of engineering classes and exams and the harsh winter in Houghton. The weather was incredible during my stay, with temperatures getting above 60F on Monday and getting close to that again on Friday.
+
+![Frozen edge of Lake Michigan from Sheboygan, WI](http://eoisaacs.github.io/images/2014-03-18/img01.jpg)
 
 Sheboygan is a surprisingly nice town to spend time in (I don't know why I'm surprised, I just didn't expect a whole lot), with a nice waterfront and a decent downtown area. We kept pretty busy, biking as much as possible as well as cooking whatever we felt like and meeting up with Anthony's friends in town.
 
