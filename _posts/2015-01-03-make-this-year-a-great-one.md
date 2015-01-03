@@ -36,5 +36,5 @@ Here are a few things I will be working towards:
 
 If you want to be even more stoked for the future, then read these brief essays by adventure writer and all-around stand-up dude Brendan Leonard :
 
-<a href="http://semi-rad.com/2011/12/make-2012-the-year-of-maximum-enthusiasm/" target= "_blank">Make 2012 The Year Of Maximum Enthusiasm</a>
-<a href="http://semi-rad.com/2013/01/make-plans-not-resolutions/" target= "_blank">Make Plans, Not Resolutions</a>
+-	<a href="http://semi-rad.com/2011/12/make-2012-the-year-of-maximum-enthusiasm/" target= "_blank">Make 2012 The Year Of Maximum Enthusiasm</a>
+-	<a href="http://semi-rad.com/2013/01/make-plans-not-resolutions/" target= "_blank">Make Plans, Not Resolutions</a>
