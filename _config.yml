@@ -2,7 +2,7 @@ name: Wander the Woods
 description: Thoughts on life, environment and society by Eric Isaacs, environmental engineering student, bike lover, adventurer, and aspiring journalist
 url: http://wanderthewoods.com
 markdown: redcarpet
-pygments: true
+highlighter: null
 permalink: pretty
 paginate_path: "page:num"
 paginate: 3
