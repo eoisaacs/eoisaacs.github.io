@@ -13,7 +13,7 @@ This is for an event my college cycling club is putting on.
 
 I redid my resume in preparation for spring career fair and the rest of my summer job search. I haven't gotten much feedback yet, but I like it a lot more than the old one!
 
-If you want to hire me, hit me up. <a href="mailto:eric@eoisaacs.com" target="_blank">eric@eoisaacs.com</a>.
+If you want to hire me, hit me up. <a href="mailto:eric@eoisaacs.com">eric@eoisaacs.com</a>.
 
 ![A beer label](http://eoisaacs.github.io/images/2015-02-13/img03.png)
 
