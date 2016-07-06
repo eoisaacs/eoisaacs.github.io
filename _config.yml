@@ -1,7 +1,8 @@
 name: blog: Eric Isaacs
 description: 'Thoughts on life, environment and society by Eric Isaacs, environmental engineering student, bike lover, adventurer, and aspiring journalist'
 url: http://blog.eoisaacs.com
-markdown: redcarpet
+markdown: kramdown
+highlighter: null
 permalink: pretty
 paginate_path: "page:num"
 paginate: 3
