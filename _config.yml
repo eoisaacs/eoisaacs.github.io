@@ -2,7 +2,6 @@ name: "blog: Eric Isaacs"
 description: "Thoughts on life, environment and society by Eric Isaacs, forestry student, bike lover, and adventurer"
 url: http://blog.eoisaacs.com
 markdown: kramdown
-highlighter: null
 permalink: pretty
 paginate_path: "page:num"
 paginate: 3
