@@ -3,5 +3,5 @@ description: "Thoughts on life, environment and society by Eric Isaacs, forestry
 url: http://blog.eoisaacs.com
 markdown: kramdown
 permalink: pretty
-paginate_path: "page:num"
-paginate: 3
+//paginate_path: "page:num"
+//paginate: 3
